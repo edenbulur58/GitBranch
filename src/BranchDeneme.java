@@ -9,6 +9,7 @@ public class BranchDeneme {
 		System.out.println("Ben suan feature branch uzerinde calisiyorum");
 		System.out.println("Feature branch uzerinde calisabilirim, master branch uzerinde calismam yasak");
 		System.out.println("Tum degisiklikleri her zaman feature branch uzerinde yapabilirim.");
+		System.out.println("Yeni bir satir.");
 		
 	}
 	
